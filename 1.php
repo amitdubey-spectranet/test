@@ -1,5 +1,5 @@
 <?php
-if($a == "1")
+if($a == 1)
 echo "Y";
 else
 echo "No";
